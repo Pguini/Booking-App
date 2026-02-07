@@ -10,5 +10,5 @@ This is a non-production academic project that I built to demonstrate applicatio
 
 # Setup
 1. Clone the repo
-2. Install dependecies
-3. Run the app (React Native CLI or Expo)
+2. Install dependencies (npm install)
+4. Run the app (React Native CLI or Expo)
